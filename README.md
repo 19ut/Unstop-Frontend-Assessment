@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 just follow two steps:
 1- npm i
+<br/>
 2- npm run dev
