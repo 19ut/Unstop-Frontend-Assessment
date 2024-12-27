@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 just follow two steps:
-1- npm i
 <br/>
-2- npm run dev
+npm i
+<br/>
+npm run dev
